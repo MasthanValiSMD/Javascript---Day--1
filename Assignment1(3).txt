@@ -1,0 +1,16 @@
+
+3.Write a blog about objects and its internal representation in Javascript
+
+*Objects, in JavaScript, it is a complex that allows to store collection of data.
+*These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+*Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+*An object, is a reference data type. 
+*Objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. 
+*These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+*A JavaScript object has properties associated with it. 
+*A property of an object can be explained as a variable that is attached to the object.
+*The variables don’t actually store the value. 
+*Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. 
+*Like all JavaScript variables, both the object name (which could be a normal variable) and property name are case sensitive. 
+*You can define a property by assigning it a value
+*Unassigned properties of an object are undefined (and not null).
